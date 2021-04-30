@@ -1,1 +1,1 @@
-# Image-recognition-in-Cats-vs-Dogs-
+# Image-recognition-Cats-vs-Dogs
