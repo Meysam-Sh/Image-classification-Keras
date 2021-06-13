@@ -1,3 +1,4 @@
-![before filter](https://user-images.githubusercontent.com/62679750/121814309-a7cdee00-cc46-11eb-8d75-9c4d54952f01.png)
-![before filter](https://user-images.githubusercontent.com/62679750/121814279-82d97b00-cc46-11eb-8e55-00cfd6fa2bf9.png)
-# Image-recognition-Cats-vs-Dogs
+![BeforeFilter](https://user-images.githubusercontent.com/62679750/121814388-317dbb80-cc47-11eb-84d8-0f601c05dd09.png)
+![HorizaontalFilter](https://user-images.githubusercontent.com/62679750/121814392-393d6000-cc47-11eb-9f26-ba1dcbd04fbb.png)
+![VerticalFilter](https://user-images.githubusercontent.com/62679750/121814395-435f5e80-cc47-11eb-80f9-2af4e536245c.png)
+![GussianFilter](https://user-images.githubusercontent.com/62679750/121814397-44908b80-cc47-11eb-823a-14a133dd1972.png)
