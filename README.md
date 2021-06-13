@@ -7,5 +7,5 @@
 
 ![Dog](https://user-images.githubusercontent.com/62679750/121814702-c8974300-cc48-11eb-878b-921ab55568ec.png)
 ![dog-flipped](https://user-images.githubusercontent.com/62679750/121814704-ca610680-cc48-11eb-92b7-0fff607ca376.png)
-![cat](https://user-images.githubusercontent.com/62679750/121814734-fd0aff00-cc48-11eb-9366-8947519c10b8.png)
-![cat-flipped](https://user-images.githubusercontent.com/62679750/121814737-ff6d5900-cc48-11eb-9b79-5888a26e0f6c.png)
+        ![cat](https://user-images.githubusercontent.com/62679750/121814734-fd0aff00-cc48-11eb-9366-8947519c10b8.png)
+        ![cat-flipped](https://user-images.githubusercontent.com/62679750/121814737-ff6d5900-cc48-11eb-9b79-5888a26e0f6c.png)
