@@ -1,7 +1,7 @@
 In this project, a classifier is built for classifying between dogs and cats using the dataset available on Kaggle. The dataset consists of 25k training images and 12.5k test images. At first vertical, horizontal, and Gaussian filters are applied to the images to detect the edges of the images and to make the images blur. After that, a Convolutional Neural Network is implemented using the Keras framework for the classification task.
 
 ----------------------------
-** Original image along with the vertical, horizontal, and Gaussian filters applied to it:
+** Original image along with the vertical, horizontal, and Gaussian filters applied to it:**
 
 ![BeforeFilter](https://user-images.githubusercontent.com/62679750/121814388-317dbb80-cc47-11eb-84d8-0f601c05dd09.png)
 ![HorizontalFilter](https://user-images.githubusercontent.com/62679750/121814481-b4067b00-cc47-11eb-9371-6c49db22ff4d.png)
