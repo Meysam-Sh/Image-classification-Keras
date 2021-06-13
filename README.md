@@ -4,6 +4,7 @@ After that, a Convolutional Neural Network is implemented using the Keras framew
 **Train Acuracy ~ 96%**
 
 **Test Acuracy  ~ 90%**
+
 ----------------------------
 **Original image along with the vertical, horizontal, and Gaussian filters applied to it:**
 
